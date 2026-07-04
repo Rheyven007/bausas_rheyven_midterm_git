@@ -15,7 +15,7 @@ BSIT BA 3303
      -Branching is useful for developers to keep developing while maintaning main branch untouch/safe.It is very useful when working on a system feature while maintaining the system online and available.
 
 #4.What command did you use to upload your local commits to GitHub?
-     git push -u origin <branch name>
+     git push -u origin {branch name}
 
 
 #5.What did you learn from this activity?
